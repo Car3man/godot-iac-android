@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="org.godotengine.plugin.v1.GodotIAC"
-            android:value="io.getready.godotiac.IAC" />
+            android:value="io.getready.godotiac.GodotIAC" />
     </application>
 
 </manifest>
